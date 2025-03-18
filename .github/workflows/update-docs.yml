@@ -1,0 +1,36 @@
+---
+name: Update Documentation
+
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  update-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependencies
+        run: pip install gspread oauth2client
+
+      - name: Debug - Check Secret Presence
+        run: |
+          echo "Checking Secret..."
+          if [[ -z "${{ secrets.GOOGLE_SHEETS_KEY }}" ]]; then
+            echo "❌ Secret is empty!"
+            exit 1
+          else
+            echo "✅ Secret exists!"
+          fi
+
+      - name: Push Updates to Google Sheets
+        run: python update_docs.py
