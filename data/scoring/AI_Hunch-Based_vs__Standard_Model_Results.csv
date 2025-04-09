@@ -1,0 +1,2 @@
+Total Queries Tested,Standard AI - Hallucination Rate,Hunch-Based AI - Hallucination Rate,Standard AI - Avg Processing Time (s),Hunch-Based AI - Avg Processing Time (s),Processing Time Increase (%)
+1000,0.131,0.076,5.810260772705078e-07,0.010000545978545973,1721087.115305675

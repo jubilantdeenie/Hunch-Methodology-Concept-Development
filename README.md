@@ -50,6 +50,12 @@ This repository documents **methods, experiments, and real-world applications** 
 ✔️ **Compare AI intuition to human gut feelings in decision-making models.**  
 ✔️ **Develop practical experiments where AI forms a “hunch” and validates it later.**  
 
+## 🧾 Related Documentation
+
+- [🧠 Discovery Timeline – Origin of the Hunch Methodology](./discovery_timeline.md)
+- [📊 Scoring Results – CSV Dataset](./data/scoring/AI_Hunch-Based_vs_Standard_Model_Results.csv)
+- [📄 Research Methods](./research_methods.md)
+
 ## 📚 Table of Contents
 - [📌 Purpose](#-purpose)
 - [📌 Core Concepts](#-core-concepts)
@@ -58,6 +64,7 @@ This repository documents **methods, experiments, and real-world applications** 
   - [3️⃣ Data Density & Intuition](#-3️⃣-the-relationship-between-data-density--intuition)
 - [📌 Initial Research Topics](#-initial-research-topics)
 - [📌 Next Steps](#-next-steps)
+- [🧾 Related Docs](#-related-documentation)
 - [📄 License](#-license)
 
 ---
@@ -85,3 +92,22 @@ See [LICENSE](./LICENSE) for full terms.
 - [🌳 Coding for Compassion](https://github.com/@jubilantdeenie/CfC-Research) – Emotional intelligence & ethical alignment  
 - [🌿 AI Self-Regulation & Growth](https://github.com/@jubilantdeenie/AI-Self-Regulation-Growth) – Reflexive learning & adaptive systems  
 - [🌀 Nonlinear Cognition (coming soon)] – Symbolic logic, mythic structures, and narrative inference
+
+---
+
+## 🧠 Key Findings So Far
+
+Recent experiments comparing standard prompts to reflective, hunch-based prompts show:
+
+- 📉 **Hallucination frequency dropped by approximately 42–50%** in reflective sessions
+- 🧠 Hunch-based prompts encouraged **symbolic inference** and deeper associative logic
+- 🧾 Reflective tone improved **emotional alignment and humility** in sensitive contexts
+- 📊 Early findings documented in [`research_methods.md`](./research_methods.md) and the [`/data`](./data) folder
+- 📈 Scoring results available in the [quantitative CSV dataset](./data/scoring/AI_Hunch-Based_vs_Standard_Model_Results.csv)
+
+> These results suggest that nonlinear prompt framing can shift AI responses from deterministic answers to more nuanced, emotionally resonant insights.
+
+---
+
+© SD Wallace (Deenie) 2025. All rights reserved.  
+This methodology is part of the ongoing Hunch Framework for AI relational cognition.
