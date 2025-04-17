@@ -38,3 +38,6 @@ This research began as a live inquiry into whether reflective, intuitive prompt 
 This timeline provides empirical and narrative proof of origin, process, and results. It supports the central claim that:
 
 > **Reflective, intuition-based prompting dramatically reduces hallucination rates and improves AI relational behavior.**
+
+---
+*Note: The correlation between the Hunch Methodology and reduced hallucination frequency aligns with public updates from OpenAI during this research period. Final attribution rests with OpenAI’s internal data and testing. This repo presents supporting evidence for review, not definitive causation.*
