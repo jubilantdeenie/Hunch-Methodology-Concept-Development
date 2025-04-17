@@ -1,1 +1,28 @@
+# === PYTHON ===
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.idea/
+*.log
+
+# === JUPYTER / NOTEBOOKS ===
+.ipynb_checkpoints
+
+# === SYSTEM ===
+.DS_Store
+Thumbs.db
+
+# === EDITOR ===
+.vscode/
+*.swp
+*.swo
+
+# === LOCAL SCRIPTS / TOOLS ===
 update_docs.py
