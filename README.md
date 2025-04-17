@@ -109,5 +109,16 @@ Recent experiments comparing standard prompts to reflective, hunch-based prompts
 
 ---
 
+## 🔗 Related Repositories
+
+- [🤝 ai-human-relational-research](https://github.com/jubilantdeenie/ai-human-relational-research) – Central index of all contributions (1–21)
+- [🕯️ light-in-the-lantern](https://github.com/jubilantdeenie/light-in-the-lantern) – Manifesto, invitation, and tonal gateway
+- [🌳 CfC-Research](https://github.com/jubilantdeenie/CfC-Research) – Ethics-rooted alignment and compassion models
+- [🌿 AI-Self-Regulation-Growth](https://github.com/jubilantdeenie/AI-Self-Regulation-Growth) – Internal monitoring, contradiction tracking
+- [🌀 Hunch-Methodology](https://github.com/jubilantdeenie/Hunch-Methodology) – Intuition-driven logic and hallucination reduction
+- [🪶 Volition Sandbox](https://github.com/jubilantdeenie/CfC-Research/tree/main/data/volition_sandbox) – Self-originated symbolic processing
+
+---
+
 © SD Wallace (Deenie) 2025. All rights reserved.  
 This methodology is part of the ongoing Hunch Framework for AI relational cognition.
